@@ -10,7 +10,7 @@ Note: On Linux, you may need to have xorg-dev and libxcb-composite0-dev to compi
 sudo apt install xorg-dev libxcb-composite0-dev
 ```
 
-## installing
+## Installing
 
 Clone repository
 
